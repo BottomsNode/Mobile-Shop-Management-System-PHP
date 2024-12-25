@@ -97,8 +97,8 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ## Contact
 For questions or support, please contact:
-- **Name:** Your Name
-- **Email:** your-email@example.com
+- **Name:** Nishit Shivdasani
+- **Email:** nishitshiv2001@gmail.com
 
 ---
 Thank you for using the Mobile Shop Management System! 🚀
