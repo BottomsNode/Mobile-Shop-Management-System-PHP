@@ -64,12 +64,14 @@ To run this system, ensure you have the following installed:
    ```
 
 ## Screenshots
-### Admin Dashboard
+### Home Page
 ![Admin Dashboard](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP/blob/main/image.png)
-### Product Management
-![Product Management](screenshots/product_management.png)
-### Invoice Generation
-![Invoice Generation](screenshots/invoice_generation.png)
+### Admin Dashboard
+![Admin Dashboard](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP/blob/main/admin_dashboard.png)
+### Product Page
+![Product Management](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP/blob/main/product_page.png)
+### Invoice PDF Generation
+![Invoice Generation](https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP/blob/main/invoice_pdf.png)
 
 ## Testing
 - **Validation Testing**:
