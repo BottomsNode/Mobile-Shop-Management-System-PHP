@@ -65,7 +65,7 @@ To run this system, ensure you have the following installed:
 
 ## Screenshots
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)[https://github.com/BottomsNode/Mobile-Shop-Management-System-PHP/blob/main/image.png]
 ### Product Management
 ![Product Management](screenshots/product_management.png)
 ### Invoice Generation
