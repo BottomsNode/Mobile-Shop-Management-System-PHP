@@ -1,5 +1,3 @@
-# Mobile-Shop-Management-System-PHP
-
 # Mobile Shop Management System
 
 ## Overview
